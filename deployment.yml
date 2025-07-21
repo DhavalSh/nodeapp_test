@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nodeserver
-        image: ai8998aiatpl/harsh
+        image: ai8998aiatpl/harshpatel
         ports:
         - containerPort: 3000
